@@ -1,6 +1,50 @@
 {
   "cache_time": 7200,
   "api_site": {
+     "hongniu": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "name": "红牛资源"
+    },
+     "semao": {
+      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+      "name": "sm资源"
+    },
+     "dadi": {
+      "api": "https://dadiapi.com/api.php/provide/vod",
+      "name": "大地资源"
+    },
+    "yutu": {
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "name": "玉兔资源"
+    },
+    "az": {
+      "api": "https://api.souavzy.vip/api.php/provide/vod",
+      "name": "az资源"
+    },
+    "niuniu": {
+      "api": "https://api.niuniuzy.me/api.php/provide/vod",
+      "name": "牛牛资源"
+    },
+    "guangsu": {
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "name": "光速资源"
+    },
+    "jisu": {
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "name": "极速资源"
+    },
+    "ruyi": {
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/",
+      "name": "如意资源"
+    },
+    "haohua": {
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "name": "豪华资源"
+    },
+    "UK": {
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "name": "U酷资源"
+    },
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
